@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    font-family: "Merriweather", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+li{
+    list-style: none;
+}
+.nav-menu{
+    margin: auto;
+    width: 75%;
+    padding: 15px 0px;
+}
+.nav-menu .nav-logo{
+    float: left;
+    
+}
+.nav-menu .navs{
+    float: right;
+    
+    
+}
+.nav-menu .navs ul li{
+    float: left;
+    padding: 0px 10px;
+}
+header{
+    background-image:url(../image/bg-masthead.jpg) ;
+    background-size: cover;
+    background-position: center;
+
+}
+header .text {
+    padding: 205px 0px;
+    width: 70%;
+    margin: auto;
+    font-family: "Merriweather", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    text-align: center;
+}
+.text hr{
+    background-color: #f4623a;
+    padding: 1.5px 0px;
+    width: 60px;
+    margin: auto;
+}
+.text h1{
+    padding: 0px 200px;
+    color: #ffffff;
+    margin-bottom: 24px;
+}
+.text p{
+    padding: 0px 170px;
+    margin: 24px 0px;
+    color: #ffffff;
+    font-size: 20px;
+
+}
+.text a{
+    background-color: yellow;
+    color:red;
+    padding: 10px 15px;
+    border-radius: 35px;
+
+    
+}
+.text a:hover{
+    color
+}
